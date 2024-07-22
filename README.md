@@ -1,3 +1,8 @@
+# Changes in this fork
+
+* Upgraded `android-tools` to v31.5.1 https://github.com/RobertoArtiles/vd-tool-downloader/pull/1
+* Expanded README.md with the information on `com.android.tools` dependency and the `assembleDist` output location https://github.com/RobertoArtiles/vd-tool-downloader/pull/2
+
 # Vector Drawable Tool
 
 This repository is simply a repackaging of the [vector drawable tool](https://android.googlesource.com/platform/tools/base/+/refs/heads/mirror-goog-studio-main/vector-drawable-tool/)
